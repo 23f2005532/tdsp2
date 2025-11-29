@@ -1,0 +1,91 @@
+# -----------------------------
+# Python Basics
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Byte-compiled / compiled binaries
+*.pyc
+*$py.class
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# -----------------------------
+# Package / Build Artifacts
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# -----------------------------
+# Jupyter / IPython
+# -----------------------------
+.ipynb_checkpoints/
+*.ipynb~
+
+# -----------------------------
+# PyInstaller / Packaging
+# -----------------------------
+*.manifest
+*.spec
+
+# -----------------------------
+# Logs / Debug
+# -----------------------------
+*.log
+logs/
+nohup.out
+
+# -----------------------------
+# Environment / Secrets
+# -----------------------------
+.env
+.env.*
+*.env
+secrets.json
+
+# -----------------------------
+# Playwright (if used)
+# -----------------------------
+playwright/.cache/
+playwright-report/
+test-results/
+
+# -----------------------------
+# Editor / OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# Data Files (optional)
+# comment out if you want them tracked
+# -----------------------------
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.json
+*.zip
+
+# -----------------------------
+# Project Specific
+# -----------------------------
+LLMFiles/
