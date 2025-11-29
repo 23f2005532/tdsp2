@@ -1,8 +1,8 @@
 ---
-title: LLM Analysis Quiz Solver
-emoji: 🏃
-colorFrom: red
-colorTo: blue
+title: TDSP2
+emoji: 🦀
+colorFrom: pink
+colorTo: red
 sdk: docker
 pinned: false
 app_port: 7860
